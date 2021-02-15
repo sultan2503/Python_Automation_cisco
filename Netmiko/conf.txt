@@ -1,0 +1,6 @@
+en
+conf t
+int loop 1
+ip addr 1.1.1.1 255.255.255.255
+no shut
+exit
